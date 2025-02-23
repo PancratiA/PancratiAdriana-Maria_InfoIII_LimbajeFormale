@@ -1,0 +1,34 @@
+factura
+
+client: John Doe
+zi nastere: 12/12/1985
+companie: salut
+email: bunaziua@gmail.com
+
+produs: paine
+pret: 4.4
+cod: 19973
+
+produs: oua
+pret: 14.99
+cod: 59273
+
+produs: masline
+pret: 9.93
+cod: 34562
+
+produs: tigari
+pret: 30.49
+cod: 59987
+
+produs: carne porc
+pret: 90.99
+cod: 53344
+
+produs: lapte
+pret: 4.09
+cod: 59934
+
+pret total:  154.86
+
+
